@@ -16,4 +16,4 @@ Repositório contendo portfólio de projetos de ciência de dados concluídos po
 
 ### Apoie meu trabalho
 
-Se este projeto te inspirou, te deu ideias para seu próprio portfólio ou te ajudou, por favor considere [buying me a coffee](https://www.buymeacoffee.com/humbertonagato) ❤️.   
+Se este projeto te inspirou, te deu ideias para seu próprio portfólio ou te ajudou, por favor considere [me pagar um café](https://www.buymeacoffee.com/humbertonagato) ❤️.   
