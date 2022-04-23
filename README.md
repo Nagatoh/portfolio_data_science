@@ -9,7 +9,7 @@ Repositório contendo portfólio de projetos de ciência de dados concluídos po
 
 - ### Machine Learning
 
-	- [Previsão de vendas das drogarias Rossmann](https://github.com/Nagatoh/portfolio_data_science/tree/main/rossman_predict_sales): O projeto foi desenvolvido a partir da necessidade do CFO da empresa em destinar orçamento para reforma das lojas da rede. Visto que é necessário saber quanto as lojas irão vender para dimensionar o investimento da reforma, o produto de dados de previsão de vendas foi o que mais se destacou para sanar a dor do CFO.
+	- [Previsão de vendas das drogarias Rossmann](https://github.com/Nagatoh/rossman_predict_sales): O projeto foi desenvolvido a partir da necessidade do CFO da empresa em destinar orçamento para reforma das lojas da rede. Visto que é necessário saber quanto as lojas irão vender para dimensionar o investimento da reforma, o produto de dados de previsão de vendas foi o que mais se destacou para sanar a dor do CFO.
 
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib_ 
