@@ -14,7 +14,7 @@ Repositório contendo portfólio de projetos de ciência de dados concluídos po
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib_
 
-	- [Projeto de Machine Learning e MLOps para prever a demanda de táxis em Nova York](https://github.com/Nagatoh/taxi-demand-predictor): O objetivo deste projeto é desenvolver um modelo de machine learning que seja capaz de prever a demanda de táxis em Nova York. O modelo será treinado em um conjunto de dados de dados históricos de demanda de táxis, incluindo informações sobre clima, hora do dia, dia da semana e eventos locais.
+	- [Projeto de Machine Learning e MLOps para prever a demanda de táxis em Nova York](https://github.com/Nagatoh/taxi-demand-predictor)**[Em Andamento]**: O objetivo deste projeto é desenvolver um modelo de machine learning que seja capaz de prever a demanda de táxis em Nova York. O modelo será treinado em um conjunto de dados de dados históricos de demanda de táxis, incluindo informações sobre clima, hora do dia, dia da semana e eventos locais.
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib_ ,Hopsworks(feature store),Streamlit
 
